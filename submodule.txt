@@ -1,0 +1,2 @@
+testfile.txt
+This is a file that should be in a sub folder of the main project.
